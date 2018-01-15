@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a7c87cf-94ff-4aca-b512-274d19f4de0a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/SiteWebMVC/Models/Bundle.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SiteWebMVC/Models/GameType.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SiteWebMVC/Models/Managers/DataRegister.cs" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SiteWebMVC/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.SiteWebMVC/.idea/contentModel.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SiteWebMVC/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.SiteWebMVC/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/SiteWebMVC/Controllers/GamesBundlesController.cs" afterPath="$PROJECT_DIR$/SiteWebMVC/Controllers/GamesBundlesController.cs" />
-      <change beforePath="$PROJECT_DIR$/SiteWebMVC/Controllers/GamesListController.cs" afterPath="$PROJECT_DIR$/SiteWebMVC/Controllers/GamesListController.cs" />
-      <change beforePath="$PROJECT_DIR$/SiteWebMVC/Controllers/HomeController.cs" afterPath="$PROJECT_DIR$/SiteWebMVC/Controllers/HomeController.cs" />
-      <change beforePath="$PROJECT_DIR$/SiteWebMVC/Models/Game.cs" afterPath="$PROJECT_DIR$/SiteWebMVC/Models/Game.cs" />
-      <change beforePath="$PROJECT_DIR$/SiteWebMVC/SiteWebMVC.csproj" afterPath="$PROJECT_DIR$/SiteWebMVC/SiteWebMVC.csproj" />
-      <change beforePath="$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Delete.cshtml" afterPath="$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Add.cshtml" />
-      <change beforePath="$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Details.cshtml" afterPath="$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Details.cshtml" />
-      <change beforePath="$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Edit.cshtml" afterPath="$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Edit.cshtml" />
-      <change beforePath="$PROJECT_DIR$/SiteWebMVC/Views/GamesList/Delete.cshtml" afterPath="$PROJECT_DIR$/SiteWebMVC/Views/GamesList/Add.cshtml" />
-      <change beforePath="$PROJECT_DIR$/SiteWebMVC/Views/GamesList/Details.cshtml" afterPath="$PROJECT_DIR$/SiteWebMVC/Views/GamesList/Details.cshtml" />
-      <change beforePath="$PROJECT_DIR$/SiteWebMVC/Views/GamesList/Edit.cshtml" afterPath="$PROJECT_DIR$/SiteWebMVC/Views/GamesList/Edit.cshtml" />
-      <change beforePath="$PROJECT_DIR$/SiteWebMVC/Views/Home/GamesBundles.cshtml" afterPath="$PROJECT_DIR$/SiteWebMVC/Views/Home/GamesBundles.cshtml" />
-      <change beforePath="$PROJECT_DIR$/SiteWebMVC/Views/Home/GamesList.cshtml" afterPath="$PROJECT_DIR$/SiteWebMVC/Views/Home/GamesList.cshtml" />
-      <change beforePath="$PROJECT_DIR$/SiteWebMVC/Views/Home/Index.cshtml" afterPath="$PROJECT_DIR$/SiteWebMVC/Views/Home/Index.cshtml" />
-      <change beforePath="$PROJECT_DIR$/SiteWebMVC/Views/Shared/_Layout.cshtml" afterPath="$PROJECT_DIR$/SiteWebMVC/Views/Shared/_Layout.cshtml" />
-      <change beforePath="$PROJECT_DIR$/SiteWebMVC/bin/SiteWebMVC.dll" afterPath="$PROJECT_DIR$/SiteWebMVC/bin/SiteWebMVC.dll" />
-      <change beforePath="$PROJECT_DIR$/SiteWebMVC/bin/SiteWebMVC.pdb" afterPath="$PROJECT_DIR$/SiteWebMVC/bin/SiteWebMVC.pdb" />
-      <change beforePath="$PROJECT_DIR$/SiteWebMVC/obj/Debug/SiteWebMVC.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/SiteWebMVC/obj/Debug/SiteWebMVC.csproj.CoreCompileInputs.cache" />
-      <change beforePath="$PROJECT_DIR$/SiteWebMVC/obj/Debug/SiteWebMVC.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/SiteWebMVC/obj/Debug/SiteWebMVC.csprojResolveAssemblyReference.cache" />
-      <change beforePath="$PROJECT_DIR$/SiteWebMVC/obj/Debug/SiteWebMVC.dll" afterPath="$PROJECT_DIR$/SiteWebMVC/obj/Debug/SiteWebMVC.dll" />
-      <change beforePath="$PROJECT_DIR$/SiteWebMVC/obj/Debug/SiteWebMVC.pdb" afterPath="$PROJECT_DIR$/SiteWebMVC/obj/Debug/SiteWebMVC.pdb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/HomeController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="34" column="59" lean-forward="true" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
+              <caret line="34" column="59" lean-forward="false" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
               <folding>
                 <marker date="1516034145362" expanded="false" signature="6:128" ph="..." />
                 <marker date="1516034145362" expanded="true" signature="162:2211" ph="{...}" />
@@ -60,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/Home/GamesBundles.cshtml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="181">
-              <caret line="28" column="59" lean-forward="true" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
+              <caret line="28" column="59" lean-forward="false" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
               <folding>
                 <marker date="1516032810897" expanded="true" signature="34:79" ph="@..." />
                 <marker date="1516032810897" expanded="true" signature="80:142" ph="&lt;div.../&gt;" />
@@ -317,7 +292,7 @@
       <updated>1515419002675</updated>
       <workItem from="1515419004238" duration="9813000" />
       <workItem from="1516021317131" duration="675000" />
-      <workItem from="1516022412837" duration="11134000" />
+      <workItem from="1516022412837" duration="11283000" />
     </task>
     <task id="LOCAL-00001" summary="Changement du nom du projet en &quot;Go Games&quot;&#10;Ajout des vues nécessaires&#10;Ajout des controlleurs nécessaires">
       <created>1516023678753</created>
@@ -326,11 +301,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516023678753</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Séparation des différents écrans (menu principal, jeux, bundles)&#10;Ajout de la fonction de suppression&#10;Ajout des ids par nom de jeu et titre de bundle">
+      <created>1516034431240</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1516034431240</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21622000" />
+    <option name="totallyTimeSpent" value="21771000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -377,7 +359,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changement du nom du projet en &quot;Go Games&quot;&#10;Ajout des vues nécessaires&#10;Ajout des controlleurs nécessaires" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changement du nom du projet en &quot;Go Games&quot;&#10;Ajout des vues nécessaires&#10;Ajout des controlleurs nécessaires" />
+    <MESSAGE value="Séparation des différents écrans (menu principal, jeux, bundles)&#10;Ajout de la fonction de suppression&#10;Ajout des ids par nom de jeu et titre de bundle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Séparation des différents écrans (menu principal, jeux, bundles)&#10;Ajout de la fonction de suppression&#10;Ajout des ids par nom de jeu et titre de bundle" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -801,7 +784,7 @@
     <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/Home/GamesBundles.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
-          <caret line="28" column="59" lean-forward="true" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
+          <caret line="28" column="59" lean-forward="false" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
           <folding>
             <marker date="1516032810897" expanded="true" signature="34:79" ph="@..." />
             <marker date="1516032810897" expanded="true" signature="80:142" ph="&lt;div.../&gt;" />
@@ -823,7 +806,7 @@
     <entry file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/HomeController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="34" column="59" lean-forward="true" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
+          <caret line="34" column="59" lean-forward="false" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
           <folding>
             <marker date="1516034145362" expanded="false" signature="6:128" ph="..." />
             <marker date="1516034145362" expanded="true" signature="162:2211" ph="{...}" />
