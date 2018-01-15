@@ -218,10 +218,11 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\GamesBundlesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\ReminderController.cs" />
+    <Compile Include="Controllers\GamesListController.cs" />
     <Compile Include="Global.asax.cs" />
-    <Compile Include="Models\Reminder.cs" />
+    <Compile Include="Models\Game.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -249,12 +250,15 @@
     <Content Include="Scripts\jquery-1.9.1.min.js" />
     <Content Include="Scripts\jquery-1.9.1.min.map" />
     <Content Include="Scripts\site.js" />
-    <Content Include="Views\Home\About.cshtml" />
-    <Content Include="Views\Home\Contact.cshtml" />
+    <Content Include="Views\GamesBundles\Delete.cshtml" />
+    <Content Include="Views\GamesBundles\Details.cshtml" />
+    <Content Include="Views\GamesBundles\Edit.cshtml" />
+    <Content Include="Views\Home\GamesList.cshtml" />
+    <Content Include="Views\Home\GamesBundles.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\Reminder\Delete.cshtml" />
-    <Content Include="Views\Reminder\Details.cshtml" />
-    <Content Include="Views\Reminder\Edit.cshtml" />
+    <Content Include="Views\GamesList\Delete.cshtml" />
+    <Content Include="Views\GamesList\Details.cshtml" />
+    <Content Include="Views\GamesList\Edit.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Web.config" />

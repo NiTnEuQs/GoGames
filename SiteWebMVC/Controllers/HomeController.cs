@@ -10,16 +10,16 @@ namespace SiteWebMVC.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult GamesList()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Your games list page.";
 
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult GamesBundles()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Your games bundle page.";
 
             return View();
         }

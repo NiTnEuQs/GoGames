@@ -2,7 +2,7 @@
 
 namespace SiteWebMVC.Controllers
 {
-    public class ReminderController : Controller
+    public class GamesBundlesController : Controller
     {
         public ActionResult Edit(int id)
         {

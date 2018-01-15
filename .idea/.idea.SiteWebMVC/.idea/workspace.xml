@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a7c87cf-94ff-4aca-b512-274d19f4de0a" name="Default" comment="" />
+    <list default="true" id="6a7c87cf-94ff-4aca-b512-274d19f4de0a" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/SiteWebMVC/Controllers/GamesBundlesController.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Delete.cshtml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Edit.cshtml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SiteWebMVC/Views/GamesList/Details.cshtml" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SiteWebMVC/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.SiteWebMVC/.idea/contentModel.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SiteWebMVC/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.SiteWebMVC/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/SiteWebMVC/Controllers/HomeController.cs" afterPath="$PROJECT_DIR$/SiteWebMVC/Controllers/HomeController.cs" />
+      <change beforePath="$PROJECT_DIR$/SiteWebMVC/Controllers/ReminderController.cs" afterPath="$PROJECT_DIR$/SiteWebMVC/Controllers/GamesListController.cs" />
+      <change beforePath="$PROJECT_DIR$/SiteWebMVC/Models/Reminder.cs" afterPath="$PROJECT_DIR$/SiteWebMVC/Models/Game.cs" />
+      <change beforePath="$PROJECT_DIR$/SiteWebMVC/SiteWebMVC.csproj" afterPath="$PROJECT_DIR$/SiteWebMVC/SiteWebMVC.csproj" />
+      <change beforePath="$PROJECT_DIR$/SiteWebMVC/Views/Home/About.cshtml" afterPath="$PROJECT_DIR$/SiteWebMVC/Views/Home/GamesList.cshtml" />
+      <change beforePath="$PROJECT_DIR$/SiteWebMVC/Views/Home/Contact.cshtml" afterPath="$PROJECT_DIR$/SiteWebMVC/Views/Home/GamesBundles.cshtml" />
+      <change beforePath="$PROJECT_DIR$/SiteWebMVC/Views/Home/Index.cshtml" afterPath="$PROJECT_DIR$/SiteWebMVC/Views/Home/Index.cshtml" />
+      <change beforePath="$PROJECT_DIR$/SiteWebMVC/Views/Reminder/Delete.cshtml" afterPath="$PROJECT_DIR$/SiteWebMVC/Views/GamesList/Delete.cshtml" />
+      <change beforePath="$PROJECT_DIR$/SiteWebMVC/Views/Reminder/Details.cshtml" afterPath="$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Details.cshtml" />
+      <change beforePath="$PROJECT_DIR$/SiteWebMVC/Views/Reminder/Edit.cshtml" afterPath="$PROJECT_DIR$/SiteWebMVC/Views/GamesList/Edit.cshtml" />
+      <change beforePath="$PROJECT_DIR$/SiteWebMVC/Views/Shared/_Layout.cshtml" afterPath="$PROJECT_DIR$/SiteWebMVC/Views/Shared/_Layout.cshtml" />
+      <change beforePath="$PROJECT_DIR$/SiteWebMVC/bin/SiteWebMVC.dll" afterPath="$PROJECT_DIR$/SiteWebMVC/bin/SiteWebMVC.dll" />
+      <change beforePath="$PROJECT_DIR$/SiteWebMVC/bin/SiteWebMVC.pdb" afterPath="$PROJECT_DIR$/SiteWebMVC/bin/SiteWebMVC.pdb" />
+      <change beforePath="$PROJECT_DIR$/SiteWebMVC/obj/Debug/SiteWebMVC.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/SiteWebMVC/obj/Debug/SiteWebMVC.csproj.CoreCompileInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/SiteWebMVC/obj/Debug/SiteWebMVC.dll" afterPath="$PROJECT_DIR$/SiteWebMVC/obj/Debug/SiteWebMVC.dll" />
+      <change beforePath="$PROJECT_DIR$/SiteWebMVC/obj/Debug/SiteWebMVC.pdb" afterPath="$PROJECT_DIR$/SiteWebMVC/obj/Debug/SiteWebMVC.pdb" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,54 +34,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/HomeController.cs">
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/Home/Index.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReminderController.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/ReminderController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+            <state relative-caret-position="165">
+              <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
               <folding>
-                <marker date="1515430013340" expanded="true" signature="55:545" ph="{...}" />
-                <marker date="1515430013340" expanded="true" signature="106:543" ph="{...}" />
-                <marker date="1515430013340" expanded="true" signature="153:246" ph="{...}" />
-                <marker date="1515430013340" expanded="true" signature="299:392" ph="{...}" />
-                <marker date="1515430013340" expanded="true" signature="444:537" ph="{...}" />
+                <marker date="1516022976384" expanded="true" signature="0:38" ph="@..." />
+                <marker date="1516022976384" expanded="true" signature="39:225" ph="&lt;div.../&gt;" />
+                <marker date="1516022976384" expanded="true" signature="227:1578" ph="&lt;table.../&gt;" />
+                <marker date="1516022976384" expanded="true" signature="265:421" ph="&lt;thead.../&gt;" />
+                <marker date="1516022976384" expanded="true" signature="275:410" ph="&lt;tr.../&gt;" />
+                <marker date="1516022976384" expanded="true" signature="424:1569" ph="&lt;tbody.../&gt;" />
+                <marker date="1516022976384" expanded="true" signature="434:1019" ph="&lt;tr.../&gt;" />
+                <marker date="1516022976384" expanded="true" signature="574:1011" ph="&lt;td.../&gt;" />
+                <marker date="1516022976384" expanded="true" signature="585:718" ph="&lt;a.../&gt;" />
+                <marker date="1516022976384" expanded="true" signature="725:861" ph="&lt;a.../&gt;" />
+                <marker date="1516022976384" expanded="true" signature="868:1001" ph="&lt;a.../&gt;" />
+                <marker date="1516022976384" expanded="true" signature="1022:1558" ph="&lt;tr.../&gt;" />
+                <marker date="1516022976384" expanded="true" signature="1163:1550" ph="&lt;td.../&gt;" />
+                <marker date="1516022976384" expanded="true" signature="1174:1292" ph="&lt;a.../&gt;" />
+                <marker date="1516022976384" expanded="true" signature="1299:1417" ph="&lt;a.../&gt;" />
+                <marker date="1516022976384" expanded="true" signature="1424:1540" ph="&lt;a.../&gt;" />
+                <marker date="1516022976384" expanded="true" signature="1580:2950" ph="@*...*@" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/Home/Index.cshtml">
+      <file leaf-file-name="_Layout.cshtml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/Shared/_Layout.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="25" column="68" lean-forward="false" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
+            <state relative-caret-position="-137">
+              <caret line="7" column="58" lean-forward="false" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
               <folding>
-                <marker date="1515429686496" expanded="true" signature="0:38" ph="@..." />
-                <marker date="1515429686496" expanded="true" signature="39:200" ph="&lt;div.../&gt;" />
-                <marker date="1515429686496" expanded="true" signature="202:1546" ph="&lt;table.../&gt;" />
-                <marker date="1515429686496" expanded="true" signature="240:389" ph="&lt;thead.../&gt;" />
-                <marker date="1515429686496" expanded="true" signature="250:378" ph="&lt;tr.../&gt;" />
-                <marker date="1515429686496" expanded="true" signature="392:1537" ph="&lt;tbody.../&gt;" />
-                <marker date="1515429686496" expanded="true" signature="402:987" ph="&lt;tr.../&gt;" />
-                <marker date="1515429686496" expanded="true" signature="542:979" ph="&lt;td.../&gt;" />
-                <marker date="1515429686496" expanded="true" signature="553:686" ph="&lt;a.../&gt;" />
-                <marker date="1515429686496" expanded="true" signature="693:829" ph="&lt;a.../&gt;" />
-                <marker date="1515429686496" expanded="true" signature="836:969" ph="&lt;a.../&gt;" />
-                <marker date="1515429686496" expanded="true" signature="990:1526" ph="&lt;tr.../&gt;" />
-                <marker date="1515429686496" expanded="true" signature="1131:1518" ph="&lt;td.../&gt;" />
-                <marker date="1515429686496" expanded="true" signature="1142:1260" ph="&lt;a.../&gt;" />
-                <marker date="1515429686496" expanded="true" signature="1267:1385" ph="&lt;a.../&gt;" />
-                <marker date="1515429686496" expanded="true" signature="1392:1508" ph="&lt;a.../&gt;" />
+                <marker date="1516023430058" expanded="true" signature="16:1610" ph="&lt;html.../&gt;" />
+                <marker date="1516023430058" expanded="true" signature="23:467" ph="&lt;head.../&gt;" />
+                <marker date="1516023430058" expanded="true" signature="468:1602" ph="&lt;body.../&gt;" />
+                <marker date="1516023430058" expanded="true" signature="475:1228" ph="&lt;div.../&gt;" />
+                <marker date="1516023430058" expanded="true" signature="530:1221" ph="&lt;div.../&gt;" />
+                <marker date="1516023430058" expanded="true" signature="558:980" ph="&lt;div.../&gt;" />
+                <marker date="1516023430058" expanded="true" signature="592:878" ph="&lt;button.../&gt;" />
+                <marker date="1516023430058" expanded="true" signature="985:1212" ph="&lt;div.../&gt;" />
+                <marker date="1516023430058" expanded="true" signature="1030:1201" ph="&lt;ul.../&gt;" />
+                <marker date="1516023430058" expanded="true" signature="1229:1354" ph="&lt;div.../&gt;" />
+                <marker date="1516023430058" expanded="true" signature="1293:1347" ph="&lt;footer.../&gt;" />
+                <marker date="1516023430058" expanded="true" signature="1356:1550" ph="&lt;environment.../&gt;" />
               </folding>
             </state>
           </provider>
@@ -82,17 +103,21 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Models/Reminder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Models/Game.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesList/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/GamesListController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesList/Details.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesList/Delete.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Delete.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Details.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/GamesBundlesController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SiteWebMVC/App_Start/RouteConfig.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/Reminder/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/ReminderController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/Reminder/Details.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/Reminder/Delete.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/Home/Contact.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/Home/GamesBundles.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/Home/About.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/Home/GamesList.cshtml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -103,17 +128,28 @@
         <option value="$PROJECT_DIR$/SiteWebMVC/Views/HelloWorld/Index.cshtml" />
         <option value="$PROJECT_DIR$/SiteWebMVC/Views/Home/About.cshtml" />
         <option value="$PROJECT_DIR$/SiteWebMVC/Views/Home/Contact.cshtml" />
-        <option value="$PROJECT_DIR$/SiteWebMVC/Views/Shared/_Layout.cshtml" />
         <option value="$PROJECT_DIR$/SiteWebMVC/Models/Reminder.cs" />
         <option value="$PROJECT_DIR$/SiteWebMVC/App_Start/RouteConfig.cs" />
         <option value="$PROJECT_DIR$/SiteWebMVC/Views/Home/ReminderEdit.cshtml" />
-        <option value="$PROJECT_DIR$/SiteWebMVC/Controllers/HomeController.cs" />
-        <option value="$PROJECT_DIR$/SiteWebMVC/Views/Home/Index.cshtml" />
         <option value="$PROJECT_DIR$/SiteWebMVC/Views/Reminder/ReminderEdit.cshtml" />
         <option value="$PROJECT_DIR$/SiteWebMVC/Controllers/ReminderController.cs" />
         <option value="$PROJECT_DIR$/SiteWebMVC/Views/Reminder/Delete.cshtml" />
         <option value="$PROJECT_DIR$/SiteWebMVC/Views/Reminder/Details.cshtml" />
         <option value="$PROJECT_DIR$/SiteWebMVC/Controllers/Reminder2Controller.cs" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/Game/Delete.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/Game/Details.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/Game/Edit.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/Games/Details.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Details.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Delete.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Edit.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/Home/GamesBundles.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/Home/GamesList.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Controllers/GamesListController.cs" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Controllers/GamesBundlesController.cs" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/Shared/_Layout.cshtml" />
       </list>
     </option>
   </component>
@@ -156,6 +192,58 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="SiteWebMVC (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="SiteWebMVC" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SiteWebMVC (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SiteWebMVC" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="App_Start" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SiteWebMVC (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SiteWebMVC" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SiteWebMVC (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SiteWebMVC" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SiteWebMVC (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SiteWebMVC" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SiteWebMVC (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SiteWebMVC" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GamesBundles" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SiteWebMVC (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SiteWebMVC" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GamesList" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SiteWebMVC (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SiteWebMVC" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Home" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SiteWebMVC (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SiteWebMVC" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Shared" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -217,12 +305,12 @@
       <updated>1515419002675</updated>
       <workItem from="1515419004238" duration="9813000" />
       <workItem from="1516021317131" duration="675000" />
-      <workItem from="1516022412837" duration="73000" />
+      <workItem from="1516022412837" duration="1135000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10561000" />
+    <option name="totallyTimeSpent" value="11623000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -235,17 +323,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="42" width="1260" height="670" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943144" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32869565" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32869565" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32869565" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25862068" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -255,7 +345,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -275,7 +364,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding />
+          <folding>
+            <marker date="1516023147145" expanded="false" signature="6:51" ph="..." />
+            <marker date="1516023147145" expanded="true" signature="85:530" ph="{...}" />
+            <marker date="1516023147145" expanded="true" signature="132:528" ph="{...}" />
+            <marker date="1516023147145" expanded="true" signature="174:221" ph="{...}" />
+            <marker date="1516023147145" expanded="true" signature="262:369" ph="{...}" />
+            <marker date="1516023147145" expanded="true" signature="413:522" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -284,36 +380,37 @@
         <state relative-caret-position="375">
           <caret line="25" column="68" lean-forward="false" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
           <folding>
-            <marker date="1515429686496" expanded="true" signature="0:38" ph="@..." />
-            <marker date="1515429686496" expanded="true" signature="39:200" ph="&lt;div.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="202:1546" ph="&lt;table.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="240:389" ph="&lt;thead.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="250:378" ph="&lt;tr.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="392:1537" ph="&lt;tbody.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="402:987" ph="&lt;tr.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="542:979" ph="&lt;td.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="553:686" ph="&lt;a.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="693:829" ph="&lt;a.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="836:969" ph="&lt;a.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="990:1526" ph="&lt;tr.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="1131:1518" ph="&lt;td.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="1142:1260" ph="&lt;a.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="1267:1385" ph="&lt;a.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="1392:1508" ph="&lt;a.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="0:38" ph="@..." />
+            <marker date="1516022976384" expanded="true" signature="39:225" ph="&lt;div.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="227:1578" ph="&lt;table.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="265:421" ph="&lt;thead.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="275:410" ph="&lt;tr.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="424:1569" ph="&lt;tbody.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="434:1019" ph="&lt;tr.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="574:1011" ph="&lt;td.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="585:718" ph="&lt;a.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="725:861" ph="&lt;a.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="868:1001" ph="&lt;a.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="1022:1558" ph="&lt;tr.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="1163:1550" ph="&lt;td.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="1174:1292" ph="&lt;a.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="1299:1417" ph="&lt;a.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="1424:1540" ph="&lt;a.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="1580:2950" ph="@*...*@" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/ReminderController.cs">
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/GamesListController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
           <folding>
-            <marker date="1515430013340" expanded="true" signature="55:545" ph="{...}" />
-            <marker date="1515430013340" expanded="true" signature="106:543" ph="{...}" />
-            <marker date="1515430013340" expanded="true" signature="153:246" ph="{...}" />
-            <marker date="1515430013340" expanded="true" signature="299:392" ph="{...}" />
-            <marker date="1515430013340" expanded="true" signature="444:537" ph="{...}" />
+            <marker date="1516023323418" expanded="true" signature="55:546" ph="{...}" />
+            <marker date="1516023323418" expanded="true" signature="107:544" ph="{...}" />
+            <marker date="1516023323418" expanded="true" signature="154:247" ph="{...}" />
+            <marker date="1516023323418" expanded="true" signature="300:393" ph="{...}" />
+            <marker date="1516023323418" expanded="true" signature="445:538" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -322,20 +419,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding />
+          <folding>
+            <marker date="1516023147145" expanded="false" signature="6:51" ph="..." />
+            <marker date="1516023147145" expanded="true" signature="85:530" ph="{...}" />
+            <marker date="1516023147145" expanded="true" signature="132:528" ph="{...}" />
+            <marker date="1516023147145" expanded="true" signature="174:221" ph="{...}" />
+            <marker date="1516023147145" expanded="true" signature="262:369" ph="{...}" />
+            <marker date="1516023147145" expanded="true" signature="413:522" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/ReminderController.cs">
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/GamesListController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
           <folding>
-            <marker date="1515430013340" expanded="true" signature="55:545" ph="{...}" />
-            <marker date="1515430013340" expanded="true" signature="106:543" ph="{...}" />
-            <marker date="1515430013340" expanded="true" signature="153:246" ph="{...}" />
-            <marker date="1515430013340" expanded="true" signature="299:392" ph="{...}" />
-            <marker date="1515430013340" expanded="true" signature="444:537" ph="{...}" />
+            <marker date="1516023323418" expanded="true" signature="55:546" ph="{...}" />
+            <marker date="1516023323418" expanded="true" signature="107:544" ph="{...}" />
+            <marker date="1516023323418" expanded="true" signature="154:247" ph="{...}" />
+            <marker date="1516023323418" expanded="true" signature="300:393" ph="{...}" />
+            <marker date="1516023323418" expanded="true" signature="445:538" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -345,22 +449,23 @@
         <state relative-caret-position="375">
           <caret line="25" column="68" lean-forward="false" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
           <folding>
-            <marker date="1515429686496" expanded="true" signature="0:38" ph="@..." />
-            <marker date="1515429686496" expanded="true" signature="39:200" ph="&lt;div.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="202:1546" ph="&lt;table.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="240:389" ph="&lt;thead.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="250:378" ph="&lt;tr.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="392:1537" ph="&lt;tbody.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="402:987" ph="&lt;tr.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="542:979" ph="&lt;td.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="553:686" ph="&lt;a.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="693:829" ph="&lt;a.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="836:969" ph="&lt;a.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="990:1526" ph="&lt;tr.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="1131:1518" ph="&lt;td.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="1142:1260" ph="&lt;a.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="1267:1385" ph="&lt;a.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="1392:1508" ph="&lt;a.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="0:38" ph="@..." />
+            <marker date="1516022976384" expanded="true" signature="39:225" ph="&lt;div.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="227:1578" ph="&lt;table.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="265:421" ph="&lt;thead.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="275:410" ph="&lt;tr.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="424:1569" ph="&lt;tbody.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="434:1019" ph="&lt;tr.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="574:1011" ph="&lt;td.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="585:718" ph="&lt;a.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="725:861" ph="&lt;a.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="868:1001" ph="&lt;a.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="1022:1558" ph="&lt;tr.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="1163:1550" ph="&lt;td.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="1174:1292" ph="&lt;a.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="1299:1417" ph="&lt;a.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="1424:1540" ph="&lt;a.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="1580:2950" ph="@*...*@" />
           </folding>
         </state>
       </provider>
@@ -382,27 +487,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/Home/About.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/Home/Contact.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="30" lean-forward="false" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/Shared/_Layout.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SiteWebMVC/App_Start/RouteConfig.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -414,72 +498,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="117" column="49" lean-forward="true" selection-start-line="117" selection-start-column="49" selection-end-line="117" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/Reminder/Edit.cshtml">
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesList/Edit.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/Reminder/Edit.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/Reminder/Delete.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="34" lean-forward="false" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/Reminder/Details.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/Reminder2Controller.cs" />
-    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/Home/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="25" column="68" lean-forward="false" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
-          <folding>
-            <marker date="1515429686496" expanded="true" signature="0:38" ph="@..." />
-            <marker date="1515429686496" expanded="true" signature="39:200" ph="&lt;div.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="202:1546" ph="&lt;table.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="240:389" ph="&lt;thead.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="250:378" ph="&lt;tr.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="392:1537" ph="&lt;tbody.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="402:987" ph="&lt;tr.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="542:979" ph="&lt;td.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="553:686" ph="&lt;a.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="693:829" ph="&lt;a.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="836:969" ph="&lt;a.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="990:1526" ph="&lt;tr.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="1131:1518" ph="&lt;td.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="1142:1260" ph="&lt;a.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="1267:1385" ph="&lt;a.../&gt;" />
-            <marker date="1515429686496" expanded="true" signature="1392:1508" ph="&lt;a.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/HomeController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Models/Reminder.cs">
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Models/Game.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
@@ -494,16 +525,220 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/ReminderController.cs">
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesList/Details.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        <state relative-caret-position="45">
+          <caret line="3" column="36" lean-forward="false" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
           <folding>
-            <marker date="1515430013340" expanded="true" signature="55:545" ph="{...}" />
-            <marker date="1515430013340" expanded="true" signature="106:543" ph="{...}" />
-            <marker date="1515430013340" expanded="true" signature="153:246" ph="{...}" />
-            <marker date="1515430013340" expanded="true" signature="299:392" ph="{...}" />
-            <marker date="1515430013340" expanded="true" signature="444:537" ph="{...}" />
+            <marker date="1516022767548" expanded="true" signature="35:78" ph="@..." />
+            <marker date="1516022767548" expanded="true" signature="80:1768" ph="&lt;form.../&gt;" />
+            <marker date="1516022767548" expanded="true" signature="145:1534" ph="&lt;div.../&gt;" />
+            <marker date="1516022767548" expanded="true" signature="396:778" ph="&lt;div.../&gt;" />
+            <marker date="1516022767548" expanded="true" signature="498:763" ph="&lt;div.../&gt;" />
+            <marker date="1516022767548" expanded="true" signature="787:1283" ph="&lt;div.../&gt;" />
+            <marker date="1516022767548" expanded="true" signature="889:1268" ph="&lt;div.../&gt;" />
+            <marker date="1516022767548" expanded="true" signature="1336:1523" ph="&lt;div.../&gt;" />
+            <marker date="1516022767548" expanded="true" signature="1373:1508" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesList/Edit.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="3" column="42" lean-forward="true" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+          <folding>
+            <marker date="1516022767558" expanded="true" signature="35:82" ph="@..." />
+            <marker date="1516022767558" expanded="true" signature="84:1772" ph="&lt;form.../&gt;" />
+            <marker date="1516022767558" expanded="true" signature="149:1538" ph="&lt;div.../&gt;" />
+            <marker date="1516022767558" expanded="true" signature="400:782" ph="&lt;div.../&gt;" />
+            <marker date="1516022767558" expanded="true" signature="502:767" ph="&lt;div.../&gt;" />
+            <marker date="1516022767558" expanded="true" signature="791:1287" ph="&lt;div.../&gt;" />
+            <marker date="1516022767558" expanded="true" signature="893:1272" ph="&lt;div.../&gt;" />
+            <marker date="1516022767558" expanded="true" signature="1340:1527" ph="&lt;div.../&gt;" />
+            <marker date="1516022767558" expanded="true" signature="1377:1512" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesList/Delete.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="41" lean-forward="false" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+          <folding>
+            <marker date="1516022767539" expanded="true" signature="35:83" ph="@..." />
+            <marker date="1516022767539" expanded="true" signature="85:1773" ph="&lt;form.../&gt;" />
+            <marker date="1516022767539" expanded="true" signature="150:1539" ph="&lt;div.../&gt;" />
+            <marker date="1516022767539" expanded="true" signature="401:783" ph="&lt;div.../&gt;" />
+            <marker date="1516022767539" expanded="true" signature="503:768" ph="&lt;div.../&gt;" />
+            <marker date="1516022767539" expanded="true" signature="792:1288" ph="&lt;div.../&gt;" />
+            <marker date="1516022767539" expanded="true" signature="894:1273" ph="&lt;div.../&gt;" />
+            <marker date="1516022767539" expanded="true" signature="1341:1528" ph="&lt;div.../&gt;" />
+            <marker date="1516022767539" expanded="true" signature="1378:1513" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+          <folding>
+            <marker date="1516023147145" expanded="false" signature="6:51" ph="..." />
+            <marker date="1516023147145" expanded="true" signature="85:530" ph="{...}" />
+            <marker date="1516023147145" expanded="true" signature="132:528" ph="{...}" />
+            <marker date="1516023147145" expanded="true" signature="174:221" ph="{...}" />
+            <marker date="1516023147145" expanded="true" signature="262:369" ph="{...}" />
+            <marker date="1516023147145" expanded="true" signature="413:522" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Details.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="39" lean-forward="false" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+          <folding>
+            <marker date="1516023227802" expanded="true" signature="35:81" ph="@..." />
+            <marker date="1516023227802" expanded="true" signature="83:1771" ph="&lt;form.../&gt;" />
+            <marker date="1516023227802" expanded="true" signature="148:1537" ph="&lt;div.../&gt;" />
+            <marker date="1516023227802" expanded="true" signature="399:781" ph="&lt;div.../&gt;" />
+            <marker date="1516023227802" expanded="true" signature="501:766" ph="&lt;div.../&gt;" />
+            <marker date="1516023227802" expanded="true" signature="790:1286" ph="&lt;div.../&gt;" />
+            <marker date="1516023227802" expanded="true" signature="892:1271" ph="&lt;div.../&gt;" />
+            <marker date="1516023227802" expanded="true" signature="1339:1526" ph="&lt;div.../&gt;" />
+            <marker date="1516023227802" expanded="true" signature="1376:1511" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Delete.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="44" lean-forward="false" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+          <folding>
+            <marker date="1516023247318" expanded="true" signature="35:86" ph="@..." />
+            <marker date="1516023247318" expanded="true" signature="88:1776" ph="&lt;form.../&gt;" />
+            <marker date="1516023247318" expanded="true" signature="153:1542" ph="&lt;div.../&gt;" />
+            <marker date="1516023247318" expanded="true" signature="404:786" ph="&lt;div.../&gt;" />
+            <marker date="1516023247318" expanded="true" signature="506:771" ph="&lt;div.../&gt;" />
+            <marker date="1516023247318" expanded="true" signature="795:1291" ph="&lt;div.../&gt;" />
+            <marker date="1516023247318" expanded="true" signature="897:1276" ph="&lt;div.../&gt;" />
+            <marker date="1516023247318" expanded="true" signature="1344:1531" ph="&lt;div.../&gt;" />
+            <marker date="1516023247318" expanded="true" signature="1381:1516" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Edit.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="43" lean-forward="false" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+          <folding>
+            <marker date="1516023250964" expanded="true" signature="35:85" ph="@..." />
+            <marker date="1516023250964" expanded="true" signature="87:1775" ph="&lt;form.../&gt;" />
+            <marker date="1516023250964" expanded="true" signature="152:1541" ph="&lt;div.../&gt;" />
+            <marker date="1516023250964" expanded="true" signature="403:785" ph="&lt;div.../&gt;" />
+            <marker date="1516023250964" expanded="true" signature="505:770" ph="&lt;div.../&gt;" />
+            <marker date="1516023250964" expanded="true" signature="794:1290" ph="&lt;div.../&gt;" />
+            <marker date="1516023250964" expanded="true" signature="896:1275" ph="&lt;div.../&gt;" />
+            <marker date="1516023250964" expanded="true" signature="1343:1530" ph="&lt;div.../&gt;" />
+            <marker date="1516023250964" expanded="true" signature="1380:1515" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/Home/GamesList.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          <folding>
+            <marker date="1516023265701" expanded="true" signature="0:32" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/Home/GamesBundles.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          <folding>
+            <marker date="1516023258249" expanded="true" signature="0:35" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/GamesBundlesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <marker date="1516023355993" expanded="true" signature="55:549" ph="{...}" />
+            <marker date="1516023355993" expanded="true" signature="110:547" ph="{...}" />
+            <marker date="1516023355993" expanded="true" signature="157:250" ph="{...}" />
+            <marker date="1516023355993" expanded="true" signature="303:396" ph="{...}" />
+            <marker date="1516023355993" expanded="true" signature="448:541" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/GamesListController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <marker date="1516023323418" expanded="true" signature="55:546" ph="{...}" />
+            <marker date="1516023323418" expanded="true" signature="107:544" ph="{...}" />
+            <marker date="1516023323418" expanded="true" signature="154:247" ph="{...}" />
+            <marker date="1516023323418" expanded="true" signature="300:393" ph="{...}" />
+            <marker date="1516023323418" expanded="true" signature="445:538" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <marker date="1516022976384" expanded="true" signature="0:38" ph="@..." />
+            <marker date="1516022976384" expanded="true" signature="39:225" ph="&lt;div.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="227:1578" ph="&lt;table.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="265:421" ph="&lt;thead.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="275:410" ph="&lt;tr.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="424:1569" ph="&lt;tbody.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="434:1019" ph="&lt;tr.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="574:1011" ph="&lt;td.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="585:718" ph="&lt;a.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="725:861" ph="&lt;a.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="868:1001" ph="&lt;a.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="1022:1558" ph="&lt;tr.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="1163:1550" ph="&lt;td.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="1174:1292" ph="&lt;a.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="1299:1417" ph="&lt;a.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="1424:1540" ph="&lt;a.../&gt;" />
+            <marker date="1516022976384" expanded="true" signature="1580:2950" ph="@*...*@" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-137">
+          <caret line="7" column="58" lean-forward="false" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+          <folding>
+            <marker date="1516023430058" expanded="true" signature="16:1610" ph="&lt;html.../&gt;" />
+            <marker date="1516023430058" expanded="true" signature="23:467" ph="&lt;head.../&gt;" />
+            <marker date="1516023430058" expanded="true" signature="468:1602" ph="&lt;body.../&gt;" />
+            <marker date="1516023430058" expanded="true" signature="475:1228" ph="&lt;div.../&gt;" />
+            <marker date="1516023430058" expanded="true" signature="530:1221" ph="&lt;div.../&gt;" />
+            <marker date="1516023430058" expanded="true" signature="558:980" ph="&lt;div.../&gt;" />
+            <marker date="1516023430058" expanded="true" signature="592:878" ph="&lt;button.../&gt;" />
+            <marker date="1516023430058" expanded="true" signature="985:1212" ph="&lt;div.../&gt;" />
+            <marker date="1516023430058" expanded="true" signature="1030:1201" ph="&lt;ul.../&gt;" />
+            <marker date="1516023430058" expanded="true" signature="1229:1354" ph="&lt;div.../&gt;" />
+            <marker date="1516023430058" expanded="true" signature="1293:1347" ph="&lt;footer.../&gt;" />
+            <marker date="1516023430058" expanded="true" signature="1356:1550" ph="&lt;environment.../&gt;" />
           </folding>
         </state>
       </provider>

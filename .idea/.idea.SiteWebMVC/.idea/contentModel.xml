@@ -21,8 +21,9 @@
           <e p="site.css" t="Include" />
         </e>
         <e p="Controllers" t="Include">
+          <e p="GamesBundlesController.cs" t="Include" />
+          <e p="GamesListController.cs" t="Include" />
           <e p="HomeController.cs" t="Include" />
-          <e p="ReminderController.cs" t="Include" />
         </e>
         <e p="favicon.ico" t="Include" />
         <e p="fonts" t="Include">
@@ -35,7 +36,7 @@
         <e p="Global.asax" t="Include" />
         <e p="Global.asax.cs" t="Include" />
         <e p="Models" t="Include">
-          <e p="Reminder.cs" t="Include" />
+          <e p="Game.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />
@@ -54,15 +55,20 @@
         <e p="SiteWebMVC.csproj" t="IncludeRecursive" />
         <e p="Views" t="Include">
           <e p="_ViewStart.cshtml" t="Include" />
-          <e p="Home" t="Include">
-            <e p="About.cshtml" t="Include" />
-            <e p="Contact.cshtml" t="Include" />
-            <e p="Index.cshtml" t="Include" />
-          </e>
-          <e p="Reminder" t="Include">
+          <e p="GamesBundles" t="Include">
             <e p="Delete.cshtml" t="Include" />
             <e p="Details.cshtml" t="Include" />
             <e p="Edit.cshtml" t="Include" />
+          </e>
+          <e p="GamesList" t="Include">
+            <e p="Delete.cshtml" t="Include" />
+            <e p="Details.cshtml" t="Include" />
+            <e p="Edit.cshtml" t="Include" />
+          </e>
+          <e p="Home" t="Include">
+            <e p="GamesBundles.cshtml" t="Include" />
+            <e p="GamesList.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
           </e>
           <e p="Shared" t="Include">
             <e p="_Layout.cshtml" t="Include" />
