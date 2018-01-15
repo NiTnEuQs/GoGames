@@ -1,5 +1,42 @@
-﻿@{
-    ViewBag.Title = "Bundles";
+﻿@using SiteWebMVC.Models.Managers
+@{
+    ViewBag.Title = "Liste des bundles";
 }
-<h2>@ViewBag.Title.</h2>
-<h3>@ViewBag.Message</h3>
+<div class="jumbotron">
+    <h1>@ViewData["Title"]</h1>
+</div>
+
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th>Titre du bundle</th>
+        <th>Genre</th>
+        <th>Description</th>
+        <th>Date de création</th>
+        <th>Jeux</th>
+        <th>@Html.ActionLink(" ", "Add", "GamesBundles", null, new {@class = "btn btn-success glyphicon glyphicon-plus"})</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach(var bundle in DataRegister.Bundles.Values)
+    {
+        <tr>
+            <td>@bundle.BundleName</td>
+            <td>@bundle.GameType</td>
+            <td>@bundle.Description</td>
+            <td>@bundle.CreationDate</td>
+            <td>
+                @foreach (var gameName in bundle.GamesName)
+                {
+                    @DataRegister.Games[gameName]<br/>
+                }
+            </td>
+            <td>
+                @Html.ActionLink(" ", "Edit", "GamesBundles", new { ID = bundle.BundleName }, new {@class = "btn btn-success glyphicon glyphicon-pencil"})
+                @Html.ActionLink(" ", "Details", "GamesBundles", new { ID = bundle.BundleName }, new {@class = "btn btn-info glyphicon glyphicon-info-sign"})
+                @Html.ActionLink(" ", "Delete", "GamesBundles", new { ID = bundle.BundleName }, new {@class = "btn btn-danger glyphicon glyphicon-trash"})
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

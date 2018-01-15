@@ -1,28 +1,41 @@
 ﻿using System.Web.Mvc;
+using SiteWebMVC.Models.Managers;
 
 namespace SiteWebMVC.Controllers
 {
     public class GamesBundlesController : Controller
     {
-        public ActionResult Edit(int id)
+        
+        public ActionResult Add()
+        {            
+            return View();
+        }
+        
+        public ActionResult Edit(string id)
         {
             ViewData["ID"] = id;
             
             return View();
         }
         
-        public ActionResult Details(int id)
+        public ActionResult Details(string id)
         {
             ViewData["ID"] = id;
             
             return View();
         }
         
-        public ActionResult Delete(int id)
+        public ActionResult Delete(string id)
         {
-            ViewData["ID"] = id;
+            foreach (var gameName in DataRegister.Bundles[id].GamesName)
+            {
+                DataRegister.Games[gameName].BundlesName.Remove(id);
+            }
             
-            return View();
+            DataRegister.Bundles.Remove(id);
+
+            return RedirectToAction("GamesBundles", "Home");
         }
+        
     }
 }

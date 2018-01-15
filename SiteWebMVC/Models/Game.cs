@@ -1,24 +1,67 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using SiteWebMVC.Models.Managers;
 
 namespace SiteWebMVC.Models
 {
-    public class Reminder
+    public class Game
     {
-        public int ID { get; set; }
         
-        [Display(Name = "Titre")]
-        public string Title { get; set; }
+        private string gameName;
+        private GameType gameType;
+        private string description;
+        private DateTime creationYear;
+        private List<string> bundlesName;
         
-        [Display(Name = "Description")]
-        public string Description { get; set; }
+        public Game(string gameName, GameType gameType, string description, DateTime creationYear)
+        {
+            this.gameName = gameName;
+            this.gameType = gameType;
+            this.description = description;
+            this.creationYear = creationYear;
+            bundlesName = new List<string>();
+        }
         
-        [Display(Name = "Date de rappel")]
-        [DataType(DataType.DateTime)]
-        public DateTime RemindDate { get; set; }
+        public void AddGameToBundle(string bundleName)
+        {
+            DataRegister.Bundles[bundleName].GamesName.Add(gameName);
+        }
+
+        public string GameName
+        {
+            get => gameName;
+            set => gameName = value;
+        }
+
+        public GameType GameType
+        {
+            get => gameType;
+            set => gameType = value;
+        }
+
+        public string Description
+        {
+            get => description;
+            set => description = value;
+        }
+
+        public DateTime CreationYear
+        {
+            get => creationYear;
+            set => creationYear = value;
+        }
+
+        public List<string> BundlesName
+        {
+            get => bundlesName;
+            set => bundlesName = value;
+        }
+
+        public override string ToString()
+        {
+            return GameName;
+        }
         
-        [Display(Name = "Date de création")]
-        [DataType(DataType.Date)]
-        public DateTime CreationDate { get; set; }
     }
 }

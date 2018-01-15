@@ -36,7 +36,12 @@
         <e p="Global.asax" t="Include" />
         <e p="Global.asax.cs" t="Include" />
         <e p="Models" t="Include">
+          <e p="Bundle.cs" t="Include" />
           <e p="Game.cs" t="Include" />
+          <e p="GameType.cs" t="Include" />
+          <e p="Managers" t="Include">
+            <e p="DataRegister.cs" t="Include" />
+          </e>
         </e>
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />
@@ -56,12 +61,12 @@
         <e p="Views" t="Include">
           <e p="_ViewStart.cshtml" t="Include" />
           <e p="GamesBundles" t="Include">
-            <e p="Delete.cshtml" t="Include" />
+            <e p="Add.cshtml" t="Include" />
             <e p="Details.cshtml" t="Include" />
             <e p="Edit.cshtml" t="Include" />
           </e>
           <e p="GamesList" t="Include">
-            <e p="Delete.cshtml" t="Include" />
+            <e p="Add.cshtml" t="Include" />
             <e p="Details.cshtml" t="Include" />
             <e p="Edit.cshtml" t="Include" />
           </e>

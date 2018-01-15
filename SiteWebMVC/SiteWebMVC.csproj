@@ -223,6 +223,9 @@
     <Compile Include="Controllers\GamesListController.cs" />
     <Compile Include="Global.asax.cs" />
     <Compile Include="Models\Game.cs" />
+    <Compile Include="Models\Bundle.cs" />
+    <Compile Include="Models\GameType.cs" />
+    <Compile Include="Models\Managers\DataRegister.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -250,13 +253,13 @@
     <Content Include="Scripts\jquery-1.9.1.min.js" />
     <Content Include="Scripts\jquery-1.9.1.min.map" />
     <Content Include="Scripts\site.js" />
-    <Content Include="Views\GamesBundles\Delete.cshtml" />
+    <Content Include="Views\GamesBundles\Add.cshtml" />
     <Content Include="Views\GamesBundles\Details.cshtml" />
     <Content Include="Views\GamesBundles\Edit.cshtml" />
+    <Content Include="Views\GamesList\Add.cshtml" />
     <Content Include="Views\Home\GamesList.cshtml" />
     <Content Include="Views\Home\GamesBundles.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\GamesList\Delete.cshtml" />
     <Content Include="Views\GamesList\Details.cshtml" />
     <Content Include="Views\GamesList\Edit.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
