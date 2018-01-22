@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a7c87cf-94ff-4aca-b512-274d19f4de0a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SiteWebMVC/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.SiteWebMVC/.idea/workspace.xml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="34" column="59" lean-forward="false" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
+              <folding>
+                <marker date="1516034145362" expanded="false" signature="6:128" ph="..." />
+                <marker date="1516034145362" expanded="true" signature="162:2211" ph="{...}" />
+                <marker date="1516034145362" expanded="true" signature="209:2209" ph="{...}" />
+                <marker date="1516034145362" expanded="true" signature="251:298" ph="{...}" />
+                <marker date="1516034145362" expanded="true" signature="339:386" ph="{...}" />
+                <marker date="1516034145362" expanded="true" signature="430:477" ph="{...}" />
+                <marker date="1516034145362" expanded="true" signature="526:2194" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GamesBundles.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/Home/GamesBundles.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="28" column="59" lean-forward="false" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
+              <folding>
+                <marker date="1516032810897" expanded="true" signature="34:79" ph="@..." />
+                <marker date="1516032810897" expanded="true" signature="80:142" ph="&lt;div.../&gt;" />
+                <marker date="1516032810897" expanded="true" signature="144:1470" ph="&lt;table.../&gt;" />
+                <marker date="1516032810897" expanded="true" signature="184:491" ph="&lt;thead.../&gt;" />
+                <marker date="1516032810897" expanded="true" signature="196:478" ph="&lt;tr.../&gt;" />
+                <marker date="1516032810897" expanded="true" signature="496:1461" ph="&lt;tbody.../&gt;" />
+                <marker date="1516032810897" expanded="true" signature="508:1448" ph="@..." />
+                <marker date="1516032810897" expanded="true" signature="559:1448" ph="{...}" />
+                <marker date="1516032810897" expanded="true" signature="574:1442" ph="&lt;tr.../&gt;" />
+                <marker date="1516032810897" expanded="true" signature="752:925" ph="&lt;td.../&gt;" />
+                <marker date="1516032810897" expanded="true" signature="773:907" ph="@..." />
+                <marker date="1516032810897" expanded="true" signature="816:907" ph="{...}" />
+                <marker date="1516032810897" expanded="true" signature="938:1428" ph="&lt;td.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Movies</find>
+      <find>movies</find>
+      <find>Movie</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>reminder</replace>
+      <replace>Reminder</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Models/Game.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesList/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/GamesListController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesList/Details.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Details.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/GamesBundlesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Models/GameType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Models/Managers/DataRegister.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Models/Bundle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/App_Start/RouteConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesList/Add.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Add.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/Home/GamesBundles.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SiteWebMVC/Views/Home/GamesList.cshtml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SiteWebMVC/Models/Movie.cs" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Controllers/HelloWorldController.cs" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/HelloWorld/Welcome.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/HelloWorld/Index.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/Home/About.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/Home/Contact.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Models/Reminder.cs" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/App_Start/RouteConfig.cs" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/Home/ReminderEdit.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/Reminder/ReminderEdit.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Controllers/ReminderController.cs" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/Reminder/Delete.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/Reminder/Details.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Controllers/Reminder2Controller.cs" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/Game/Delete.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/Game/Details.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/Game/Edit.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/Games/Details.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Details.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Delete.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Edit.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Models/Managers/GamesRegister.cs" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Models/Managers/GamesBundle.cs" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Models/GameType.cs" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Models/GamesBundle.cs" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Models/Managers/DataRegister.cs" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/Home/GamesList.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Views/Home/GamesBundles.cshtml" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Controllers/GamesListController.cs" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Controllers/GamesBundlesController.cs" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Models/Game.cs" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/SiteWebMVC/Models/Bundle.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="42" />
+    <option name="width" value="1260" />
+    <option name="height" value="670" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SiteWebMVC (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SiteWebMVC (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SiteWebMVC" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SiteWebMVC (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SiteWebMVC" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="App_Start" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SiteWebMVC (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SiteWebMVC" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SiteWebMVC (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SiteWebMVC" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SiteWebMVC (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SiteWebMVC" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Managers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SiteWebMVC (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SiteWebMVC" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SiteWebMVC (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SiteWebMVC" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GamesBundles" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SiteWebMVC (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SiteWebMVC" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GamesList" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SiteWebMVC (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SiteWebMVC" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Home" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SiteWebMVC (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SiteWebMVC" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Shared" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="/Library/Frameworks/Mono.framework/Versions/Current/lib/mono/4.5/xsp4.exe" />
+      <option name="PROGRAM_PARAMETERS" value="--address=127.0.0.1 --port=5000" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SiteWebMVC" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SiteWebMVC/SiteWebMVC.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Web" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <browser url="http://127.0.0.1:5000" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a7c87cf-94ff-4aca-b512-274d19f4de0a" name="Default" comment="" />
+      <created>1515419002675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515419002675</updated>
+      <workItem from="1515419004238" duration="9813000" />
+      <workItem from="1516021317131" duration="675000" />
+      <workItem from="1516022412837" duration="11283000" />
+    </task>
+    <task id="LOCAL-00001" summary="Changement du nom du projet en &quot;Go Games&quot;&#10;Ajout des vues nécessaires&#10;Ajout des controlleurs nécessaires">
+      <created>1516023678753</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516023678753</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Séparation des différents écrans (menu principal, jeux, bundles)&#10;Ajout de la fonction de suppression&#10;Ajout des ids par nom de jeu et titre de bundle">
+      <created>1516034431240</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1516034431240</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21771000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="42" width="1260" height="670" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32869565" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32869565" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25862068" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changement du nom du projet en &quot;Go Games&quot;&#10;Ajout des vues nécessaires&#10;Ajout des controlleurs nécessaires" />
+    <MESSAGE value="Séparation des différents écrans (menu principal, jeux, bundles)&#10;Ajout de la fonction de suppression&#10;Ajout des ids par nom de jeu et titre de bundle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Séparation des différents écrans (menu principal, jeux, bundles)&#10;Ajout de la fonction de suppression&#10;Ajout des ids par nom de jeu et titre de bundle" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <marker date="1516034145362" expanded="false" signature="6:128" ph="..." />
+            <marker date="1516034145362" expanded="true" signature="162:2211" ph="{...}" />
+            <marker date="1516034145362" expanded="true" signature="209:2209" ph="{...}" />
+            <marker date="1516034145362" expanded="true" signature="251:298" ph="{...}" />
+            <marker date="1516034145362" expanded="true" signature="339:386" ph="{...}" />
+            <marker date="1516034145362" expanded="true" signature="430:477" ph="{...}" />
+            <marker date="1516034145362" expanded="true" signature="526:2194" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="68" lean-forward="false" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
+          <folding>
+            <marker date="1516031233254" expanded="true" signature="0:38" ph="@..." />
+            <marker date="1516031233254" expanded="true" signature="39:613" ph="&lt;div.../&gt;" />
+            <marker date="1516031233254" expanded="true" signature="221:606" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/GamesListController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <marker date="1516033508486" expanded="false" signature="6:55" ph="..." />
+            <marker date="1516033508486" expanded="true" signature="89:913" ph="{...}" />
+            <marker date="1516033508486" expanded="true" signature="141:911" ph="{...}" />
+            <marker date="1516033508486" expanded="true" signature="190:237" ph="{...}" />
+            <marker date="1516033508486" expanded="true" signature="290:383" ph="{...}" />
+            <marker date="1516033508486" expanded="true" signature="439:532" ph="{...}" />
+            <marker date="1516033508486" expanded="true" signature="587:896" ph="{...}" />
+            <marker date="1516033508486" expanded="true" signature="672:771" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <marker date="1516034145362" expanded="false" signature="6:128" ph="..." />
+            <marker date="1516034145362" expanded="true" signature="162:2211" ph="{...}" />
+            <marker date="1516034145362" expanded="true" signature="209:2209" ph="{...}" />
+            <marker date="1516034145362" expanded="true" signature="251:298" ph="{...}" />
+            <marker date="1516034145362" expanded="true" signature="339:386" ph="{...}" />
+            <marker date="1516034145362" expanded="true" signature="430:477" ph="{...}" />
+            <marker date="1516034145362" expanded="true" signature="526:2194" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/GamesListController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <marker date="1516033508486" expanded="false" signature="6:55" ph="..." />
+            <marker date="1516033508486" expanded="true" signature="89:913" ph="{...}" />
+            <marker date="1516033508486" expanded="true" signature="141:911" ph="{...}" />
+            <marker date="1516033508486" expanded="true" signature="190:237" ph="{...}" />
+            <marker date="1516033508486" expanded="true" signature="290:383" ph="{...}" />
+            <marker date="1516033508486" expanded="true" signature="439:532" ph="{...}" />
+            <marker date="1516033508486" expanded="true" signature="587:896" ph="{...}" />
+            <marker date="1516033508486" expanded="true" signature="672:771" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="68" lean-forward="false" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
+          <folding>
+            <marker date="1516031233254" expanded="true" signature="0:38" ph="@..." />
+            <marker date="1516031233254" expanded="true" signature="39:613" ph="&lt;div.../&gt;" />
+            <marker date="1516031233254" expanded="true" signature="221:606" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/HelloWorldController.cs" />
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/HelloWorld/Index.cshtml" />
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/HelloWorld/Welcome.cshtml" />
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Content/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="338" column="1" lean-forward="false" selection-start-line="338" selection-start-column="1" selection-end-line="338" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/App_Start/RouteConfig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/SiteWebMVC.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="117" column="49" lean-forward="true" selection-start-line="117" selection-start-column="49" selection-end-line="117" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesList/Edit.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/Reminder2Controller.cs" />
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC.sln">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesList/Delete.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="41" lean-forward="false" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesList/Edit.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="3" column="42" lean-forward="false" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+          <folding>
+            <marker date="1516024375606" expanded="true" signature="31:78" ph="@..." />
+            <marker date="1516024375606" expanded="true" signature="80:1768" ph="&lt;form.../&gt;" />
+            <marker date="1516024375606" expanded="true" signature="145:1534" ph="&lt;div.../&gt;" />
+            <marker date="1516024375606" expanded="true" signature="396:778" ph="&lt;div.../&gt;" />
+            <marker date="1516024375606" expanded="true" signature="498:763" ph="&lt;div.../&gt;" />
+            <marker date="1516024375606" expanded="true" signature="787:1283" ph="&lt;div.../&gt;" />
+            <marker date="1516024375606" expanded="true" signature="889:1268" ph="&lt;div.../&gt;" />
+            <marker date="1516024375606" expanded="true" signature="1336:1523" ph="&lt;div.../&gt;" />
+            <marker date="1516024375606" expanded="true" signature="1373:1508" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesList/Details.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="36" lean-forward="false" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+          <folding>
+            <marker date="1516024372190" expanded="true" signature="31:74" ph="@..." />
+            <marker date="1516024372190" expanded="true" signature="76:1764" ph="&lt;form.../&gt;" />
+            <marker date="1516024372190" expanded="true" signature="141:1530" ph="&lt;div.../&gt;" />
+            <marker date="1516024372190" expanded="true" signature="392:774" ph="&lt;div.../&gt;" />
+            <marker date="1516024372190" expanded="true" signature="494:759" ph="&lt;div.../&gt;" />
+            <marker date="1516024372190" expanded="true" signature="783:1279" ph="&lt;div.../&gt;" />
+            <marker date="1516024372190" expanded="true" signature="885:1264" ph="&lt;div.../&gt;" />
+            <marker date="1516024372190" expanded="true" signature="1332:1519" ph="&lt;div.../&gt;" />
+            <marker date="1516024372190" expanded="true" signature="1369:1504" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Details.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="39" lean-forward="false" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+          <folding>
+            <marker date="1516024375663" expanded="true" signature="31:77" ph="@..." />
+            <marker date="1516024375663" expanded="true" signature="79:1767" ph="&lt;form.../&gt;" />
+            <marker date="1516024375663" expanded="true" signature="144:1533" ph="&lt;div.../&gt;" />
+            <marker date="1516024375663" expanded="true" signature="395:777" ph="&lt;div.../&gt;" />
+            <marker date="1516024375663" expanded="true" signature="497:762" ph="&lt;div.../&gt;" />
+            <marker date="1516024375663" expanded="true" signature="786:1282" ph="&lt;div.../&gt;" />
+            <marker date="1516024375663" expanded="true" signature="888:1267" ph="&lt;div.../&gt;" />
+            <marker date="1516024375663" expanded="true" signature="1335:1522" ph="&lt;div.../&gt;" />
+            <marker date="1516024375663" expanded="true" signature="1372:1507" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Edit.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="29" />
+          <folding>
+            <marker date="1516024375669" expanded="true" signature="31:81" ph="@..." />
+            <marker date="1516024375669" expanded="true" signature="83:1771" ph="&lt;form.../&gt;" />
+            <marker date="1516024375669" expanded="true" signature="148:1537" ph="&lt;div.../&gt;" />
+            <marker date="1516024375669" expanded="true" signature="399:781" ph="&lt;div.../&gt;" />
+            <marker date="1516024375669" expanded="true" signature="501:766" ph="&lt;div.../&gt;" />
+            <marker date="1516024375669" expanded="true" signature="790:1286" ph="&lt;div.../&gt;" />
+            <marker date="1516024375669" expanded="true" signature="892:1271" ph="&lt;div.../&gt;" />
+            <marker date="1516024375669" expanded="true" signature="1339:1526" ph="&lt;div.../&gt;" />
+            <marker date="1516024375669" expanded="true" signature="1376:1511" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding>
+            <marker date="1516025422434" expanded="true" signature="16:1599" ph="&lt;html.../&gt;" />
+            <marker date="1516025422434" expanded="true" signature="23:456" ph="&lt;head.../&gt;" />
+            <marker date="1516025422434" expanded="true" signature="457:1591" ph="&lt;body.../&gt;" />
+            <marker date="1516025422434" expanded="true" signature="464:1217" ph="&lt;div.../&gt;" />
+            <marker date="1516025422434" expanded="true" signature="519:1210" ph="&lt;div.../&gt;" />
+            <marker date="1516025422434" expanded="true" signature="547:969" ph="&lt;div.../&gt;" />
+            <marker date="1516025422434" expanded="true" signature="581:867" ph="&lt;button.../&gt;" />
+            <marker date="1516025422434" expanded="true" signature="974:1201" ph="&lt;div.../&gt;" />
+            <marker date="1516025422434" expanded="true" signature="1019:1190" ph="&lt;ul.../&gt;" />
+            <marker date="1516025422434" expanded="true" signature="1218:1343" ph="&lt;div.../&gt;" />
+            <marker date="1516025422434" expanded="true" signature="1282:1336" ph="&lt;footer.../&gt;" />
+            <marker date="1516025422434" expanded="true" signature="1345:1539" ph="&lt;environment.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Delete.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="44" lean-forward="false" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesBundles/Add.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1516024375000" expanded="true" signature="31:82" ph="@..." />
+            <marker date="1516024375000" expanded="true" signature="84:1772" ph="&lt;form.../&gt;" />
+            <marker date="1516024375000" expanded="true" signature="149:1538" ph="&lt;div.../&gt;" />
+            <marker date="1516024375000" expanded="true" signature="400:782" ph="&lt;div.../&gt;" />
+            <marker date="1516024375000" expanded="true" signature="502:767" ph="&lt;div.../&gt;" />
+            <marker date="1516024375000" expanded="true" signature="791:1287" ph="&lt;div.../&gt;" />
+            <marker date="1516024375000" expanded="true" signature="893:1272" ph="&lt;div.../&gt;" />
+            <marker date="1516024375000" expanded="true" signature="1340:1527" ph="&lt;div.../&gt;" />
+            <marker date="1516024375000" expanded="true" signature="1377:1512" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/GamesList/Add.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1516024370000" expanded="true" signature="31:79" ph="@..." />
+            <marker date="1516024370000" expanded="true" signature="81:1769" ph="&lt;form.../&gt;" />
+            <marker date="1516024370000" expanded="true" signature="146:1535" ph="&lt;div.../&gt;" />
+            <marker date="1516024370000" expanded="true" signature="397:779" ph="&lt;div.../&gt;" />
+            <marker date="1516024370000" expanded="true" signature="499:764" ph="&lt;div.../&gt;" />
+            <marker date="1516024370000" expanded="true" signature="788:1284" ph="&lt;div.../&gt;" />
+            <marker date="1516024370000" expanded="true" signature="890:1269" ph="&lt;div.../&gt;" />
+            <marker date="1516024370000" expanded="true" signature="1337:1524" ph="&lt;div.../&gt;" />
+            <marker date="1516024370000" expanded="true" signature="1374:1509" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <marker date="1516031233254" expanded="true" signature="0:38" ph="@..." />
+            <marker date="1516031233254" expanded="true" signature="39:613" ph="&lt;div.../&gt;" />
+            <marker date="1516031233254" expanded="true" signature="221:606" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/Home/GamesList.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="25" column="39" lean-forward="false" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+          <folding>
+            <marker date="1516032168486" expanded="true" signature="34:76" ph="@..." />
+            <marker date="1516032168486" expanded="true" signature="77:139" ph="&lt;div.../&gt;" />
+            <marker date="1516032168486" expanded="true" signature="141:1219" ph="&lt;table.../&gt;" />
+            <marker date="1516032168486" expanded="true" signature="181:461" ph="&lt;thead.../&gt;" />
+            <marker date="1516032168486" expanded="true" signature="193:448" ph="&lt;tr.../&gt;" />
+            <marker date="1516032168486" expanded="true" signature="466:1210" ph="&lt;tbody.../&gt;" />
+            <marker date="1516032168486" expanded="true" signature="478:1197" ph="@..." />
+            <marker date="1516032168486" expanded="true" signature="525:1197" ph="{...}" />
+            <marker date="1516032168486" expanded="true" signature="540:1191" ph="&lt;tr.../&gt;" />
+            <marker date="1516032168486" expanded="true" signature="708:1177" ph="&lt;td.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Models/GameType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding>
+            <marker date="1516028613087" expanded="true" signature="27:335" ph="{...}" />
+            <marker date="1516028613087" expanded="true" signature="54:333" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Models/Managers/DataRegister.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <marker date="1516032101853" expanded="true" signature="71:663" ph="{...}" />
+            <marker date="1516032101853" expanded="true" signature="103:661" ph="{...}" />
+            <marker date="1516032101853" expanded="true" signature="416:496" ph="{...}" />
+            <marker date="1516032101853" expanded="true" signature="562:646" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/GamesBundlesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <marker date="1516033546419" expanded="false" signature="6:55" ph="..." />
+            <marker date="1516033546419" expanded="true" signature="89:929" ph="{...}" />
+            <marker date="1516033546419" expanded="true" signature="144:927" ph="{...}" />
+            <marker date="1516033546419" expanded="true" signature="193:252" ph="{...}" />
+            <marker date="1516033546419" expanded="true" signature="305:398" ph="{...}" />
+            <marker date="1516033546419" expanded="true" signature="454:547" ph="{...}" />
+            <marker date="1516033546419" expanded="true" signature="602:912" ph="{...}" />
+            <marker date="1516033546419" expanded="true" signature="685:782" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/GamesListController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <marker date="1516033508486" expanded="false" signature="6:55" ph="..." />
+            <marker date="1516033508486" expanded="true" signature="89:913" ph="{...}" />
+            <marker date="1516033508486" expanded="true" signature="141:911" ph="{...}" />
+            <marker date="1516033508486" expanded="true" signature="190:237" ph="{...}" />
+            <marker date="1516033508486" expanded="true" signature="290:383" ph="{...}" />
+            <marker date="1516033508486" expanded="true" signature="439:532" ph="{...}" />
+            <marker date="1516033508486" expanded="true" signature="587:896" ph="{...}" />
+            <marker date="1516033508486" expanded="true" signature="672:771" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Models/Game.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <marker date="1516033765620" expanded="false" signature="6:126" ph="..." />
+            <marker date="1516033765620" expanded="true" signature="155:1612" ph="{...}" />
+            <marker date="1516033765620" expanded="true" signature="179:1610" ph="{...}" />
+            <marker date="1516033765620" expanded="true" signature="487:719" ph="{...}" />
+            <marker date="1516033765620" expanded="true" signature="783:873" ph="{...}" />
+            <marker date="1516033765620" expanded="true" signature="905:991" ph="{...}" />
+            <marker date="1516033765620" expanded="true" signature="1025:1111" ph="{...}" />
+            <marker date="1516033765620" expanded="true" signature="1146:1238" ph="{...}" />
+            <marker date="1516033765620" expanded="true" signature="1276:1370" ph="{...}" />
+            <marker date="1516033765620" expanded="true" signature="1411:1503" ph="{...}" />
+            <marker date="1516033765620" expanded="true" signature="1546:1595" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Models/Bundle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="24" column="47" lean-forward="true" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+          <folding>
+            <marker date="1516034187649" expanded="false" signature="6:126" ph="..." />
+            <marker date="1516034187649" expanded="true" signature="155:1785" ph="{...}" />
+            <marker date="1516034187649" expanded="true" signature="194:1783" ph="{...}" />
+            <marker date="1516034187649" expanded="true" signature="534:888" ph="{...}" />
+            <marker date="1516034187649" expanded="true" signature="807:878" ph="{...}" />
+            <marker date="1516034187649" expanded="true" signature="942:1032" ph="{...}" />
+            <marker date="1516034187649" expanded="true" signature="1074:1164" ph="{...}" />
+            <marker date="1516034187649" expanded="true" signature="1198:1288" ph="{...}" />
+            <marker date="1516034187649" expanded="true" signature="1323:1415" ph="{...}" />
+            <marker date="1516034187649" expanded="true" signature="1453:1547" ph="{...}" />
+            <marker date="1516034187649" expanded="true" signature="1586:1674" ph="{...}" />
+            <marker date="1516034187649" expanded="true" signature="1717:1768" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Views/Home/GamesBundles.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="28" column="59" lean-forward="false" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
+          <folding>
+            <marker date="1516032810897" expanded="true" signature="34:79" ph="@..." />
+            <marker date="1516032810897" expanded="true" signature="80:142" ph="&lt;div.../&gt;" />
+            <marker date="1516032810897" expanded="true" signature="144:1470" ph="&lt;table.../&gt;" />
+            <marker date="1516032810897" expanded="true" signature="184:491" ph="&lt;thead.../&gt;" />
+            <marker date="1516032810897" expanded="true" signature="196:478" ph="&lt;tr.../&gt;" />
+            <marker date="1516032810897" expanded="true" signature="496:1461" ph="&lt;tbody.../&gt;" />
+            <marker date="1516032810897" expanded="true" signature="508:1448" ph="@..." />
+            <marker date="1516032810897" expanded="true" signature="559:1448" ph="{...}" />
+            <marker date="1516032810897" expanded="true" signature="574:1442" ph="&lt;tr.../&gt;" />
+            <marker date="1516032810897" expanded="true" signature="752:925" ph="&lt;td.../&gt;" />
+            <marker date="1516032810897" expanded="true" signature="773:907" ph="@..." />
+            <marker date="1516032810897" expanded="true" signature="816:907" ph="{...}" />
+            <marker date="1516032810897" expanded="true" signature="938:1428" ph="&lt;td.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWebMVC/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="34" column="59" lean-forward="false" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
+          <folding>
+            <marker date="1516034145362" expanded="false" signature="6:128" ph="..." />
+            <marker date="1516034145362" expanded="true" signature="162:2211" ph="{...}" />
+            <marker date="1516034145362" expanded="true" signature="209:2209" ph="{...}" />
+            <marker date="1516034145362" expanded="true" signature="251:298" ph="{...}" />
+            <marker date="1516034145362" expanded="true" signature="339:386" ph="{...}" />
+            <marker date="1516034145362" expanded="true" signature="430:477" ph="{...}" />
+            <marker date="1516034145362" expanded="true" signature="526:2194" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
