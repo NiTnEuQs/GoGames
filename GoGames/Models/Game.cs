@@ -16,6 +16,8 @@ namespace GoGames.Models
         private DateTime creationYear;
         private List<string> bundlesName;
 
+        public Game() {}
+
         public Game(string gameName, GameType gameType, string description, DateTime creationYear)
         {
             this.gameName = gameName;
